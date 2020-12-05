@@ -1,0 +1,16 @@
+{
+"companyName": "fuchs&bär",
+"productName": "roll-a-ball-tutorial",
+"productVersion": "0.1",
+"dataUrl": "roll-a-ball-tutorial1.data.unityweb",
+"wasmCodeUrl": "roll-a-ball-tutorial1.wasm.code.unityweb",
+"wasmFrameworkUrl": "roll-a-ball-tutorial1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
